@@ -23,11 +23,6 @@ Each project demonstrates my ability to plan, design, and develop functional web
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots here later)*
-
----
-
 ## 📬 Contact Me
 - 📧 **Email:** [abdulrhman.mohamed.24064@gmail.com](mailto:abdulrhman.mohamed.24064@gmail.com)  
 - 💻 **GitHub:** [abdo-m-dev](https://github.com/abdo-m-dev)  
